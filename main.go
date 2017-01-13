@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/docshub/docshub/service"
+	"docshub/service"
 	"github.com/julienschmidt/httprouter"
 )
 
